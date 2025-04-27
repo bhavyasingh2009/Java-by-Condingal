@@ -1,3 +1,4 @@
+package Lesson7;
 class Employees{
  int empno;
  String names;
