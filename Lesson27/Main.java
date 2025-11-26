@@ -20,4 +20,4 @@ public class Main {
         System.out.println("printin the element " + index + " of array which is " + arr[index]);
         displayArr(arr, index+1);
     }
-}`
+}
